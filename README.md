@@ -17,4 +17,5 @@
 | https://github.com/YifeiLong/Merge-Sort | 10215501415 | 10215501418 | 10215501419 | 10215501422 |
 | https://github.com/tuziTZ/ActionTest2 | 10215501412 | 10215501409 | 10215501407 | 10215501404 |
 | https://github.com/Annie191/Cloud-Computer | 10215501435 | 10215501437 | 10215501439 | 10215501441 |
+| https://github.com/Ghostlikei/AStar_CloudComputing | 10215501403 | 10215501402 | 10215501411 |          |
 | https://github.com/Maeassar/switch_sort | 10215501445 | 10215501443 | 10194304417 |  |
