@@ -21,4 +21,4 @@
 | https://github.com/Frykhr/Action-Assignment-11.24 | 10215501424 | 10215501405 |  |  |
 | https://github.com/Ghostlikei/AStar_CloudComputing | 10215501403 | 10215501402 | 10215501411 |          |
 | https://github.com/Maeassar/switch_sort | 10215501445 | 10215501443 | 10194304417 |  |
-
+| https://github.com/DonFinliani/quick_sort | 10213330403 | 10213330409 |  |
