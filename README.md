@@ -21,5 +21,6 @@
 | https://github.com/Ghostlikei/AStar_CloudComputing | 10215501403 | 10215501402 | 10215501411 |          |
 | https://github.com/Maeassar/switch_sort | 10215501445 | 10215501443 | 10194304417 |  |
 | https://github.com/TakanashiXny/Cloud | 10215501438 | 10215501427 | 10215501434 | 10215501440 |
+| https://github.com/DonFinliani/quick_sort | 10213330403 | 10213330409 |  |
 
 
